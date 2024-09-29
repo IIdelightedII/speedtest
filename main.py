@@ -19,7 +19,7 @@ else:
     print("\n", phrase3, sep="")
 start_time = time.time()
 
-
+#
 user_input = input("\nНапечатайте фразу выше")
 end_time = time.time()
 
